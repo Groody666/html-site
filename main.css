@@ -6,3 +6,8 @@ h1 {
     text-aling: left;
     colot: blue;
 }
+th {
+    backround-color: green;
+    font-weight: bold;
+    text-aling: center;
+}
