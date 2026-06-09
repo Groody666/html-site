@@ -5,3 +5,8 @@ h1 {
     font-size: 32px;
     text-aling: center;
 }
+th {
+    backround-color: green;
+    font-weight: bold;
+    text-aling: center;
+}
