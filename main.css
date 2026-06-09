@@ -16,3 +16,11 @@ td {
     border: 1px dashed gray;
     text-aling: center;
 }
+footer a {
+    text-decoration: none;
+    color: blue;
+}
+footer a:hover {
+    color: darkred;
+}
+
